@@ -2,7 +2,7 @@
   <img src = "https://capsule-render.vercel.app/api?type=speech&height=450&color=black&text=Assalamu%20Alaykum%20-nl-and%20%20%20%20-nl-%20Welcome%20to%20SKayyali3%27s%20%20%-nl-Profile&desc=-%20Saif%20Kayyali&textBg=true&fontColor=008080&fontAlign=50&animation=fadeIn&reversal=true&descSize=30&fontAlignY=21&stroke=ffffff&strokeWidth=2&descAlignY=85" alt = "profile-banner"/>
 </p>
 
-### About me
+### - About me
 I'm a 14-year-old programmer from occupied Palestine, based in Jordan and hoping to insha'Allah become a software engineer. Focused on backend design, building useful tools and solving minor to major inconveniences.
 
 ---
@@ -46,6 +46,8 @@ I'm a 14-year-old programmer from occupied Palestine, based in Jordan and hoping
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skayyali3&layout=compact&theme=dark" height="140" alt="top languages"/>
 </p>
+
+[![committers.top badge](https://user-badge.committers.top/jordan/Skayyali3.svg)](https://user-badge.committers.top/jordan/Skayyali3)
 
 ---
 
