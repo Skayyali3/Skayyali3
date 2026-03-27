@@ -39,12 +39,12 @@ I'm a 14-year-old programmer from occupied Palestine, based in Jordan and hoping
 ### - GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skayyali3&show_icons=true&theme=shadow_blue" height="160" alt="github stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skayyali3&theme=shadow_blue" height="160" alt="github streak"/>
+  <img src="https://github-readme-stats-six-sigma-38.vercel.app/api?username=Skayyali3&show_icons=true&theme=shadow_blue" height="160" alt="github stats"/>
+  <img src="https://github-readme-streak-stats-sptx.vercel.app/?user=Skayyali3&theme=shadow_blue" height="160" alt="github streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skayyali3&layout=compact&theme=dark" height="140" alt="top languages"/>
+  <img src="https://github-readme-stats-six-sigma-38.vercel.app/api/top-langs/?username=Skayyali3&layout=compact&theme=dark" height="140" alt="top languages"/>
 </p>
 
 [![committers.top badge](https://user-badge.committers.top/jordan/Skayyali3.svg)](https://user-badge.committers.top/jordan/Skayyali3)
