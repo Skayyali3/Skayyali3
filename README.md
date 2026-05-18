@@ -23,7 +23,7 @@ I'm a 14-year-old programmer from occupied Palestine, based in Jordan and hoping
 * **Django** (Python backend framework)
 * **Spring Boot** (Java backend framework)
 * **Beyond beginner vanilla C++**
-* 
+* **Advance further in what I know insha'Allah**
 
 ---
 
