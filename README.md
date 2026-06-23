@@ -29,7 +29,7 @@ I'm a 14-year-old programmer from occupied Palestine, based in Jordan and hoping
 
 ### - Best Projects
 
-* **[PhotonVHealth](https://github.com/SKayyali3/PhotonVHealth)** - A tool built to monitor the efficiency of solar panels with built-in dust detection, shading detection and overheating detection with the main site deployed onto Render and the database being hosted on Supabase with instructions on how to build the monitoring device on your own
+* **[Photonostics](https://github.com/SKayyali3/Photonostics)** - A tool built to monitor the efficiency of solar panels with built-in dust detection, shading detection and overheating detection with the main site deployed onto Render and the database being hosted on Supabase with instructions on how to build the monitoring device on your own
 
 * **[City Weather Identifier Web Application](https://github.com/Skayyali3/City-Weather-Identifier-v3)** - A Flask-based web application deployed on Vercel built to provide accurate weather data for user-entered city names with selectable weather detail options
 
