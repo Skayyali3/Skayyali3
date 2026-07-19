@@ -3,14 +3,14 @@
 </p>
 
 ### - About me
-I'm a 14-year-old programmer from occupied Palestine, based in Jordan and hoping to insha'Allah become a software engineer. Focused on backend design, building useful tools and contributing to solving minor to major inconveniences of people.
+I'm a 15-year-old programmer from occupied Palestine, based in Jordan and hoping to insha'Allah become a software engineer. Focused on backend design, building useful tools and contributing to solving minor to major inconveniences of people.
 
 ---
 
 ### - Tech Stack (So far)
 
 * **Python** - Flask backends & Pandas data processing
-* **C++** - Beginner understanding with a project from when I was younger
+* **C++** - Beginner understanding with a project built back when I was still entering programming
 * **C/C++ Arduino IDE** - IoT and Robotics
 * **Java** - Good understanding so far Alhamdulilah; can build CLI tools but nothing beyond yet
 * **JavaScript/HTML/CSS** - Client-side web development
