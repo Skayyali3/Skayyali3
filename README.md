@@ -5,6 +5,9 @@
 ### - About me
 I'm a 15-year-old programmer from occupied Palestine, based in Jordan and hoping to insha'Allah become a software engineer. Focused on backend design, building useful tools and contributing to solving minor to major inconveniences of people.
 
+### Note:
+For most of the following school year, no significant code or development changes shall occur as I need to focus on my IGCSEs
+
 ---
 
 ### - Tech Stack (So far)
